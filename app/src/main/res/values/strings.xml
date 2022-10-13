@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="textview"></string>
+    <string name="textview2"></string>
+    <string name="textview3"></string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">+</string>
+    <string name="btn5">4</string>
+    <string name="btn6">5</string>
+    <string name="btn7">6</string>
+    <string name="btn8">-</string>
+    <string name="btn9">7</string>
+    <string name="btn10">8</string>
+    <string name="btn11">9</string>
+    <string name="btn12">AC</string>
+    <string name="btn13">0</string>
+    <string name="btn14">.</string>
+    <string name="btn15">DEL</string>
+    <string name="btn16">=</string>
+    <string name="btn17">SQRT</string>
+    <string name="btn18">%</string>
+    <string name="btn19">/</string>
+    <string name="btn20">x</string>
+</resources>
